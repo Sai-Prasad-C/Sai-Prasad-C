@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai-Prasad-C
 - 👀 I’m interested in solving real life problems and coding
-- 🌱 I’m currently learning Git and Github
+- 🌱 I’m currently learning web dev, app dev and ML
 - 💞️ I’m looking to collaborate on projects of my choices
 - 📫 How to reach me? you can mail at sp25102002@gmail.com or reva20200886SAIPRASADC@cse.reva.edu.in
 
